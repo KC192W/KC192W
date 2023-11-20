@@ -1,11 +1,11 @@
 ### 專長 👋
 🌚胡思亂想 \
 🎨手繪 \
-🧑‍💻理則學 \
+🧑‍💻理則學
 
 ### 興趣 👋
 🎮 \
-😪 \
+😪
 
 <!--
 **KC192W/KC192W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
