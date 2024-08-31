@@ -1,16 +1,17 @@
-## Hi there 👋
+### 專長 👋
+💻理則學 \
+🌚認知神經科學 \
+🎨手繪 \
+🖌️書法
 
-<!--
-**KC192W/KC192W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 興趣 👋
+🍻 \
+🎮 \
+💮 \
+⚔️ \
+📖 \
+😪
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 接觸過的程式
+喜歡用程式做研究與簡化工作：) \
+VBA Arduino PHP C# SQL Python R Stata HTML/CSS/JS
